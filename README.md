@@ -118,7 +118,7 @@ To train predictive models that predict the weight of fish using the popular lin
 
 ## Distribution of the dataset after standardization and noise removal 
 
-![Distribution of the dataset after standardization and noise removal]([https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/standardisation noise removal.png)](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/standardisation%20noise%20removal.png)
+![Distribution of the dataset after standardization and noise removal](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/standardisation noise removal.png)
 
 ## Heatmap
 
