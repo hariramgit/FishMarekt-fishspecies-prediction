@@ -112,9 +112,8 @@ To train predictive models that predict the weight of fish using the popular lin
 
 
 ## Visualize the outliers of the dataset
-
-![alt text](C:/Users/mtn/Documents/Ncs/img2.PNG)
-
+https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/outliers.png?raw=true
+<img src =imgs/outliers.png>
 
 ## Distribution of the dataset after standardization and noise removal 
 <img src =imgs/img2.png>
