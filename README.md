@@ -2,11 +2,18 @@
 
 
 
-# Fraud-risk-analysis-ML-DL-project
-
 # Project Description
 
-# 
+- This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model can be performed using machine friendly data and estimate the weight of fish can be predicted.
+
+
+
+## Dataset
+The dataset was obtained from here kaggle.
+click here for the datasets 
+
+https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/fish%20market%20dataset.csv
+
 ### The main objective of the project is:
 
 To train predictive models that predict the weight of fish using the popular linear ML algorithms—scikit-learn-implementation.
@@ -33,8 +40,6 @@ To train predictive models that predict the weight of fish using the popular lin
 - A learning curve of a best model (LGBMRegressor)
 - Normal Q-Q plot of best model
 - Regplot of target vs prediction on validation dataset
-
-
 
 
 
@@ -138,12 +143,7 @@ To train predictive models that predict the weight of fish using the popular lin
 ![The best model actual value  vs prediction value plot](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/actual%20value%20vs%20prediction%20value%20plot.png)
 
 
-(https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/target%20vs%20prediction.png)
 
-
-### Dataset
-The dataset was obtained from here kaggle.
-click here for the datasets
 
 
 ## 🏗️ Built with
@@ -161,18 +161,33 @@ click here for the datasets
 ![seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=Seaborn&logoColor=blue)
 ![Xgboost](https://img.shields.io/badge/Xgboost-2C2D72?style=for-the-badge&logo=Xgboost&logoColor=blue)
 
+![plotly](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=plotly&logoColor=black)
+![statsmodels](https://img.shields.io/badge/Xgboost-2C2D72?style=for-the-badge&logo=statsmodels&logoColor=black)
+
+![sklearn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=sklearn&logoColor=black)
+![catboost](https://img.shields.io/badge/Xgboost-2C2D72?style=for-the-badge&logo=catboost&logoColor=black)
+
 
 
 Important models oralgorithms were used in this project:
-- plot_importance
+- StandardScaler
+- LabelEncoder
 - train_test_split
-- xgb.DMatrix
-- resample
+- metrics 
+- LinearRegression,Ridge,lasso
+- DecisionTreeRegressor
+- RandomForestRegressor
+- SGDRegressor
+- ElasticNet
+- BayesianRidge
+- GradientBoostingRegressor
+- KernelRidge
+
 
 
 
 ## Organization
-- Repository "(https://github.com/hariramgit/Fraud-risk-analysis-ML-DL-project/blob/main/code/Fraud%20risk%20Analysis%20and%20Predicting.ipynb)": you may find the main Python Notebooks produced by me to realize the analysis, visualisations and predictive models.
+- Repository "(https://github.com/hariramgit/FishMarekt-fishspecies-prediction/tree/master/code))": you may find the main Python Notebooks produced by me to realize the analysis, visualisations and predictive models.
 
 
 ## ✍️ Authors
