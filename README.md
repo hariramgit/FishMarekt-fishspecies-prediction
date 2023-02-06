@@ -112,24 +112,30 @@ To train predictive models that predict the weight of fish using the popular lin
 
 
 ## Visualize the outliers of the dataset
-https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/outliers.png?raw=true
 
 ![Visualize the outliers of the dataset](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/outliers.png)
 
 
 ## Distribution of the dataset after standardization and noise removal 
-<img src =imgs/img2.png>
 
-## Visualize relationships between variables of dataset
-<img src =imgs/h.png>
+![Distribution of the dataset after standardization and noise removal](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/standardisation noise removal.png)
+
+## Heatmap
+
+i![Heatmap](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/heatmap.png))
+
 ## A learning curve of a best model (LGBMRegressor)
-<img src= imgs/lc.png>
+
+![Visualize the outliers of the dataset](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/learning curve.png)
 
 ##  Residual Plot
-<img src= imgs/r.png>
+
+![Visualize the outliers of the dataset](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/images/actual value vs prediction value plot.png)
 
 ## The best model actual value  vs prediction value plot 
-<img src = imgs/win.png>
+
+![The best model actual value  vs prediction value plot](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/target vs prediction.png
+)
 
 
 ### Dataset
