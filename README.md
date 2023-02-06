@@ -112,11 +112,11 @@ To train predictive models that predict the weight of fish using the popular lin
 
 
 ## Visualize the outliers of the dataset
-<img src =imgs/img2.png>
+<img src =C:\Users\mtn\Documents\Ncs\img2.png>
 
 
 ## Distribution of the dataset after standardization and noise removal 
-<img src =imgs/dist.png>
+<img src =imgs/img2.png>
 
 ## Visualize relationships between variables of dataset
 <img src =imgs/h.png>
