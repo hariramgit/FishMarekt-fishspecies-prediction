@@ -151,21 +151,20 @@ To train predictive models that predict the weight of fish using the popular lin
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+
 ## 👩‍💻 Libraries used
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=purple)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=yellow)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F7931E.svg?style=for-the-badge&logo=Matplotlib&logoColor=orange)
 ![os](https://img.shields.io/badge/os-F7931E.svg?style=for-the-badge&logo=os&logoColor=green)
 
 ![seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=Seaborn&logoColor=blue)
 ![Xgboost](https://img.shields.io/badge/Xgboost-2C2D72?style=for-the-badge&logo=Xgboost&logoColor=blue)
+![plotly](https://img.shields.io/badge/plotly-2C2D72?style=for-the-badge&logo=plotly&logoColor=black)
+![statsmodels](https://img.shields.io/badge/statsmodels-2C2D72?style=for-the-badge&logo=statsmodels&logoColor=black)
 
-![plotly](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=plotly&logoColor=black)
-![statsmodels](https://img.shields.io/badge/Xgboost-2C2D72?style=for-the-badge&logo=statsmodels&logoColor=black)
-
-![sklearn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=sklearn&logoColor=black)
-![catboost](https://img.shields.io/badge/Xgboost-2C2D72?style=for-the-badge&logo=catboost&logoColor=black)
+![plotlyplotly](https://img.shields.io/badge/plotlyplotly-2C2D72?style=for-the-badge&logo=sklearn&logoColor=black)
+![plotly](https://img.shields.io/badge/plotly-2C2D72?style=for-the-badge&logo=catboost&logoColor=black)
 
 
 
