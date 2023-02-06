@@ -127,15 +127,19 @@ To train predictive models that predict the weight of fish using the popular lin
 
 ## A learning curve of a best model (LGBMRegressor)
 
-![Visualize the outliers of the dataset](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/learning%20curve.png)
+![Visualize the outliers of the dataset](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/master/images/learning%20curve.png)
 
 ##  Regplot of target vs prediction on validation dataset
 
-![Regplot of target vs prediction on validation dataset](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/actual%20value%20vs%20prediction%20value%20plot.png)
+![Regplot of target vs prediction on validation dataset](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/target%20vs%20prediction.png)
 
 ## The best model actual value  vs prediction value plot 
 
-![The best model actual value  vs prediction value plot](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/target%20vs%20prediction.png)
+![The best model actual value  vs prediction value plot](https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/actual%20value%20vs%20prediction%20value%20plot.png)
+
+
+(https://github.com/hariramgit/FishMarekt-fishspecies-prediction/blob/94fbe9d737f21ed112e46be956eaedc350f43ed9/images/target%20vs%20prediction.png)
+
 
 ### Dataset
 The dataset was obtained from here kaggle.
