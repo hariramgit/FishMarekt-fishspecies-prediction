@@ -168,7 +168,7 @@ To train predictive models that predict the weight of fish using the popular lin
 
 
 
-Important models oralgorithms were used in this project:
+Important models/algorithms were used in this project:
 - StandardScaler
 - LabelEncoder
 - train_test_split
